@@ -22,7 +22,7 @@ git clone https://github.com/tycoon0804/revopoint_ros.git
 + Build
 ```
 cd ..
-catkin_make
+catkin_make -DCATKIN_ENABLE_TESTING=False -DCMAKE_BUILD_TYPE=Release
 ```
 + Start the camera
 ```
