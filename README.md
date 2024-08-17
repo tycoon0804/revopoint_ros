@@ -1,5 +1,7 @@
 # revopoint_ros
-revopoint ros package. Windows version is currently available
+revopoint ros package.
+tested revopoint 2
+Windows version is currently available
 
 ## Install dependencies
 **ROS**
@@ -27,3 +29,7 @@ catkin_make
 devel\setup.bat
 roslaunch revopoint revopoint.launch
 ```
+## TODO
+- [ ] linux version Complete
+- [ ] Add parameter options ex) Rgb Auto Exposure
+- [ ] Support for other products ex) revopoint3
