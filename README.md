@@ -32,4 +32,5 @@ roslaunch revopoint revopoint.launch
 ## TODO
 - [ ] linux version Complete
 - [ ] Add parameter options ex) Rgb Auto Exposure
-- [ ] Support for other products ex) revopoint3
+- [ ] Support for other products ex) revopoint pop 3
+- [ ] add one shot mode
