@@ -1,7 +1,7 @@
 # revopoint_ros
 revopoint ros package. Only Windows version is available now
 
-tested revopoint 2.
+tested revopoint mini 2.
 
 ## Install dependencies
 **ROS**
