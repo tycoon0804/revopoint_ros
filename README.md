@@ -1,5 +1,5 @@
 # revopoint_ros
-revopoint ros package. only Windows version is currently available
+revopoint ros package. Only Windows version is available now
 
 tested revopoint 2.
 
