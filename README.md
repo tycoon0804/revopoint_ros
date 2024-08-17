@@ -3,6 +3,9 @@ revopoint ros package. Windows version is currently available
 
 ## Install dependencies
 **ROS**
++ Please refer directly to ROS [wiki](https://wiki.ros.org/ROS/Installation)
++ windows ROS install [wiki](https://wiki.ros.org/Installation/Windows)
+
 
 ## Getting start
 + Create a ros workspace
