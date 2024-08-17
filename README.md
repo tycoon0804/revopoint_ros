@@ -25,6 +25,8 @@ cd ..
 catkin_make -DCATKIN_ENABLE_TESTING=False -DCMAKE_BUILD_TYPE=Release
 ```
 + Start the camera
+Connect the USB cable to the camera
+Wait until the back side LED is green
 ```
 devel\setup.bat
 roslaunch revopoint revopoint.launch
