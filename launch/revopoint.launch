@@ -1,0 +1,6 @@
+<launch>
+  <node pkg="revopoint" type="revopoint" name="revopoint" >
+  </node>
+  <node pkg="tf" type="static_transform_publisher" name="revopoint_tf"
+        args="0 0 0 1.57079632679 3.14159265359 1.57079632679 /base /camera_link 40" />
+</launch>
